@@ -1,0 +1,6 @@
+$\begin{array}{cccc}
+\Phi_+\ : & \ 1-q\ & \rightarrow\  &  1 - 8 q^{2} + \mathcal{O}\left(q^{3}\right) \\
+\Psi_-\ : & \ q\ & \rightarrow\  &  4 q^{2} + 24 q^{3} + \mathcal{O}\left(q^{4}\right) \\
+\Psi_+\ : & \ q\ & \rightarrow\  &  4 q^{2} + 24 q^{3} + \mathcal{O}\left(q^{4}\right) \\
+\Phi_-\ : & \ q\ & \rightarrow\  &  8 q^{3} + 72 q^{4} + \mathcal{O}\left(q^{5}\right)
+\end{array}$
