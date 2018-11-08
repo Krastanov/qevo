@@ -661,15 +661,23 @@ class Individual:
         return self._probs
     def fitness(self):
         if not self._fitness:
-            f, p = self.fidelity_and_succ_prob()
-            a,b,c,d = self.ABCD()
-            try:
-                wf, wb, wc, wd, wp = self.weights
-                self._fitness = wf*f + wb*b + wc*c + wd*d + wp*p
-            except ValueError:
-                wf, wp = self.weights
-                self._fitness = wf*f + wp*p
+            if self.weights == 'yield':
+                self._fitness = self.hashing_yield()
+            else:
+                f, p = self.fidelity_and_succ_prob()
+                a,b,c,d = self.ABCD()
+                try:
+                    wf, wb, wc, wd, wp = self.weights
+                    self._fitness = wf*f + wb*b + wc*c + wd*d + wp*p
+                except ValueError:
+                    wf, wp = self.weights
+                    self._fitness = wf*f + wp*p
         return self._fitness
+    def hashing_yield(self):
+        f,p = self.fidelity_and_succ_prob()
+        abcd = self.ABCD()
+        n = self.raw_pairs()
+        return p/n*(1+np.sum(np.log2(abcd)*abcd))
     @classmethod
     def random(cls, ops_len, permitted_ops, N, F, P2, Mη, weights, qs=None):
         return cls([random.choice(permitted_ops).random(N, F, P2, Mη, qs=qs) for _ in range(ops_len)], F,
@@ -1055,8 +1063,12 @@ class Population:
             self._f_selection.clear()
             self._f_current.plot([_.fitness() for _ in self.l],'k-',linewidth=1.5)
             if self.generations > 1:
-                self._f_history.semilogy(1-self.besthistory[:self.generations+1]/self.besthistory[self.generations],'g-', label='best')
-                self._f_history.semilogy(1-self.worsthistory[:self.generations+1]/self.besthistory[self.generations],'r-', label='worst')
+                if self.WEIGHTS == 'yield':
+                    self._f_history.semilogy(self.besthistory[:self.generations+1],'g-', label='best')
+                    self._f_history.semilogy(self.worsthistory[:self.generations+1],'r-', label='worst')
+                else:
+                    self._f_history.semilogy(1-self.besthistory[:self.generations+1]/self.besthistory[self.generations],'g-', label='best')
+                    self._f_history.semilogy(1-self.worsthistory[:self.generations+1]/self.besthistory[self.generations],'r-', label='worst')
             self._f_lenh.plot(self.lenhistory[:self.generations+1],'k-')
             self._f_selection.plot(self.selhistory[:self.generations+1,3:])
             self._f_selection.legend([_.name for _ in History][3:], bbox_to_anchor=(1.02, 0,0.25,1), loc=2,
