@@ -888,7 +888,8 @@ def individual2plot(ops,title='',fig_axis=None,shading=False,parallelism=False):
                     'ABCD'[o.pair[0]]+'ABCD'[o.pair[1]])
             s.text(i+0.94,t,text,fontsize=14,horizontalalignment='center',verticalalignment='center',zorder=z_gate+1)
         else:
-            raise NotImplementedError
+            #raise NotImplementedError
+            pass
         if shading:
             if not isinstance(o,Measurement):
                 shade = min(shades[_] for _ in o.targets)
