@@ -1,0 +1,23 @@
+
+\begin{array}{cccc}
+\Phi_+\ : & \ 1-3q\ & \rightarrow\  &  +1- \frac{1}{2}\varepsilon_{p2}- \frac{1}{4}\varepsilon_{p2}\varepsilon_{\eta}- \frac{43}{32}\varepsilon_{p2}^{2}- \frac{37}{8}\color{darkred}{q}\varepsilon_{p2}-2\color{darkred}{q^{2}}- \frac{11}{4}\varepsilon_{p2}\varepsilon_{\eta}^{2}- \frac{87}{16}\varepsilon_{p2}^{2}\varepsilon_{\eta}- \frac{129}{32}\varepsilon_{p2}^{3}-8\color{darkred}{q}\varepsilon_{\eta}^{2}- \frac{99}{4}\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}- \frac{77}{4}\color{darkred}{q}\varepsilon_{p2}^{2}-26\color{darkred}{q^{2}}\varepsilon_{\eta}-46\color{darkred}{q^{2}}\varepsilon_{p2}-30\color{darkred}{q^{3}} \\
+\Psi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon_{p2}+\frac{13}{32}\varepsilon_{p2}^{2}+\frac{11}{8}\color{darkred}{q}\varepsilon_{p2}+1\color{darkred}{q^{2}}+1\varepsilon_{p2}\varepsilon_{\eta}^{2}+\frac{15}{8}\varepsilon_{p2}^{2}\varepsilon_{\eta}+\frac{23}{16}\varepsilon_{p2}^{3}+4\color{darkred}{q}\varepsilon_{\eta}^{2}+8\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}+\frac{119}{16}\color{darkred}{q}\varepsilon_{p2}^{2}+8\color{darkred}{q^{2}}\varepsilon_{\eta}+\frac{61}{4}\color{darkred}{q^{2}}\varepsilon_{p2}+12\color{darkred}{q^{3}} \\
+\Psi_+\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon_{p2}+\frac{13}{32}\varepsilon_{p2}^{2}+\frac{5}{8}\color{darkred}{q}\varepsilon_{p2}+1\varepsilon_{p2}\varepsilon_{\eta}^{2}+\frac{15}{8}\varepsilon_{p2}^{2}\varepsilon_{\eta}+\frac{23}{16}\varepsilon_{p2}^{3}+\frac{11}{2}\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}+\frac{85}{16}\color{darkred}{q}\varepsilon_{p2}^{2}+6\color{darkred}{q^{2}}\varepsilon_{\eta}+\frac{45}{4}\color{darkred}{q^{2}}\varepsilon_{p2}+6\color{darkred}{q^{3}} \\
+\Phi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{4}\varepsilon_{p2}+\frac{1}{4}\varepsilon_{p2}\varepsilon_{\eta}+\frac{17}{32}\varepsilon_{p2}^{2}+\frac{21}{8}\color{darkred}{q}\varepsilon_{p2}+1\color{darkred}{q^{2}}+\frac{3}{4}\varepsilon_{p2}\varepsilon_{\eta}^{2}+\frac{27}{16}\varepsilon_{p2}^{2}\varepsilon_{\eta}+\frac{37}{32}\varepsilon_{p2}^{3}+4\color{darkred}{q}\varepsilon_{\eta}^{2}+\frac{45}{4}\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}+\frac{13}{2}\color{darkred}{q}\varepsilon_{p2}^{2}+12\color{darkred}{q^{2}}\varepsilon_{\eta}+\frac{39}{2}\color{darkred}{q^{2}}\varepsilon_{p2}+12\color{darkred}{q^{3}}
+\end{array}
+$$
+$$
+\begin{array}{cccc}
+\Phi_+\ : & \ 1-3q\ & \rightarrow\  &  +1- \frac{1}{2}\varepsilon- \frac{51}{32}\varepsilon^{2}- \frac{37}{8}\color{darkred}{q}\varepsilon-2\color{darkred}{q^{2}}- \frac{391}{32}\varepsilon^{3}-52\color{darkred}{q}\varepsilon^{2}-72\color{darkred}{q^{2}}\varepsilon-30\color{darkred}{q^{3}} \\
+\Psi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon+\frac{13}{32}\varepsilon^{2}+\frac{11}{8}\color{darkred}{q}\varepsilon+1\color{darkred}{q^{2}}+\frac{69}{16}\varepsilon^{3}+\frac{311}{16}\color{darkred}{q}\varepsilon^{2}+\frac{93}{4}\color{darkred}{q^{2}}\varepsilon+12\color{darkred}{q^{3}} \\
+\Psi_+\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon+\frac{13}{32}\varepsilon^{2}+\frac{5}{8}\color{darkred}{q}\varepsilon+\frac{69}{16}\varepsilon^{3}+\frac{173}{16}\color{darkred}{q}\varepsilon^{2}+\frac{69}{4}\color{darkred}{q^{2}}\varepsilon+6\color{darkred}{q^{3}} \\
+\Phi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{4}\varepsilon+\frac{25}{32}\varepsilon^{2}+\frac{21}{8}\color{darkred}{q}\varepsilon+1\color{darkred}{q^{2}}+\frac{115}{32}\varepsilon^{3}+\frac{87}{4}\color{darkred}{q}\varepsilon^{2}+\frac{63}{2}\color{darkred}{q^{2}}\varepsilon+12\color{darkred}{q^{3}}
+\end{array}
+$$
+$$
+\begin{array}{cccc}
+\Phi_+\ : & \ 1-3q\ & \rightarrow\  &  +1-2\color{darkred}{q^{2}}-30\color{darkred}{q^{3}} \\
+\Psi_-\ : & \ q\ & \rightarrow\  &  +1\color{darkred}{q^{2}}+12\color{darkred}{q^{3}} \\
+\Psi_+\ : & \ q\ & \rightarrow\  &  +6\color{darkred}{q^{3}} \\
+\Phi_-\ : & \ q\ & \rightarrow\  &  +1\color{darkred}{q^{2}}+12\color{darkred}{q^{3}}
+\end{array}

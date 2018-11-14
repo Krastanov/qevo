@@ -1,0 +1,23 @@
+
+\begin{array}{cccc}
+\Phi_+\ : & \ 1-3q\ & \rightarrow\  &  +1- \frac{1}{2}\varepsilon_{p2}-2\varepsilon_{p2}\varepsilon_{\eta}- \frac{23}{16}\varepsilon_{p2}^{2}-4\color{darkred}{q}\varepsilon_{\eta}- \frac{25}{4}\color{darkred}{q}\varepsilon_{p2}-6\color{darkred}{q^{2}}-5\varepsilon_{p2}\varepsilon_{\eta}^{2}- \frac{9}{2}\varepsilon_{p2}^{2}\varepsilon_{\eta}- \frac{135}{64}\varepsilon_{p2}^{3}-12\color{darkred}{q}\varepsilon_{\eta}^{2}-22\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}-11\color{darkred}{q}\varepsilon_{p2}^{2}-40\color{darkred}{q^{2}}\varepsilon_{\eta}- \frac{153}{4}\color{darkred}{q^{2}}\varepsilon_{p2}-48\color{darkred}{q^{3}} \\
+\Psi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon_{p2}+\frac{1}{2}\varepsilon_{p2}\varepsilon_{\eta}+\frac{13}{32}\varepsilon_{p2}^{2}+\frac{13}{8}\color{darkred}{q}\varepsilon_{p2}+2\color{darkred}{q^{2}}+\frac{3}{2}\varepsilon_{p2}\varepsilon_{\eta}^{2}+\frac{3}{2}\varepsilon_{p2}^{2}\varepsilon_{\eta}+\frac{91}{128}\varepsilon_{p2}^{3}+4\color{darkred}{q}\varepsilon_{\eta}^{2}+9\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}+\frac{31}{8}\color{darkred}{q}\varepsilon_{p2}^{2}+12\color{darkred}{q^{2}}\varepsilon_{\eta}+\frac{93}{8}\color{darkred}{q^{2}}\varepsilon_{p2}+16\color{darkred}{q^{3}} \\
+\Psi_+\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon_{p2}+\frac{1}{2}\varepsilon_{p2}\varepsilon_{\eta}+\frac{13}{32}\varepsilon_{p2}^{2}+\frac{9}{8}\color{darkred}{q}\varepsilon_{p2}+\frac{3}{2}\varepsilon_{p2}\varepsilon_{\eta}^{2}+\frac{3}{2}\varepsilon_{p2}^{2}\varepsilon_{\eta}+\frac{91}{128}\varepsilon_{p2}^{3}+5\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}+\frac{7}{2}\color{darkred}{q}\varepsilon_{p2}^{2}+4\color{darkred}{q^{2}}\varepsilon_{\eta}+\frac{85}{8}\color{darkred}{q^{2}}\varepsilon_{p2}+6\color{darkred}{q^{3}} \\
+\Phi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{4}\varepsilon_{p2}+1\varepsilon_{p2}\varepsilon_{\eta}+\frac{5}{8}\varepsilon_{p2}^{2}+4\color{darkred}{q}\varepsilon_{\eta}+\frac{7}{2}\color{darkred}{q}\varepsilon_{p2}+4\color{darkred}{q^{2}}+2\varepsilon_{p2}\varepsilon_{\eta}^{2}+\frac{3}{2}\varepsilon_{p2}^{2}\varepsilon_{\eta}+\frac{11}{16}\varepsilon_{p2}^{3}+8\color{darkred}{q}\varepsilon_{\eta}^{2}+8\color{darkred}{q}\varepsilon_{p2}\varepsilon_{\eta}+\frac{29}{8}\color{darkred}{q}\varepsilon_{p2}^{2}+24\color{darkred}{q^{2}}\varepsilon_{\eta}+16\color{darkred}{q^{2}}\varepsilon_{p2}+26\color{darkred}{q^{3}}
+\end{array}
+$$
+$$
+\begin{array}{cccc}
+\Phi_+\ : & \ 1-3q\ & \rightarrow\  &  +1- \frac{1}{2}\varepsilon- \frac{55}{16}\varepsilon^{2}- \frac{41}{4}\color{darkred}{q}\varepsilon-6\color{darkred}{q^{2}}- \frac{743}{64}\varepsilon^{3}-45\color{darkred}{q}\varepsilon^{2}- \frac{313}{4}\color{darkred}{q^{2}}\varepsilon-48\color{darkred}{q^{3}} \\
+\Psi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon+\frac{29}{32}\varepsilon^{2}+\frac{13}{8}\color{darkred}{q}\varepsilon+2\color{darkred}{q^{2}}+\frac{475}{128}\varepsilon^{3}+\frac{135}{8}\color{darkred}{q}\varepsilon^{2}+\frac{189}{8}\color{darkred}{q^{2}}\varepsilon+16\color{darkred}{q^{3}} \\
+\Psi_+\ : & \ q\ & \rightarrow\  &  +\frac{1}{8}\varepsilon+\frac{29}{32}\varepsilon^{2}+\frac{9}{8}\color{darkred}{q}\varepsilon+\frac{475}{128}\varepsilon^{3}+\frac{17}{2}\color{darkred}{q}\varepsilon^{2}+\frac{117}{8}\color{darkred}{q^{2}}\varepsilon+6\color{darkred}{q^{3}} \\
+\Phi_-\ : & \ q\ & \rightarrow\  &  +\frac{1}{4}\varepsilon+\frac{13}{8}\varepsilon^{2}+\frac{15}{2}\color{darkred}{q}\varepsilon+4\color{darkred}{q^{2}}+\frac{67}{16}\varepsilon^{3}+\frac{157}{8}\color{darkred}{q}\varepsilon^{2}+40\color{darkred}{q^{2}}\varepsilon+26\color{darkred}{q^{3}}
+\end{array}
+$$
+$$
+\begin{array}{cccc}
+\Phi_+\ : & \ 1-3q\ & \rightarrow\  &  +1-6\color{darkred}{q^{2}}-48\color{darkred}{q^{3}} \\
+\Psi_-\ : & \ q\ & \rightarrow\  &  +2\color{darkred}{q^{2}}+16\color{darkred}{q^{3}} \\
+\Psi_+\ : & \ q\ & \rightarrow\  &  +6\color{darkred}{q^{3}} \\
+\Phi_-\ : & \ q\ & \rightarrow\  &  +4\color{darkred}{q^{2}}+26\color{darkred}{q^{3}}
+\end{array}
